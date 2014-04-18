@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Episode2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_closed">Slider Menu Closed</string>
+
+    <!-- Nav drawer menu item labels -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Find people</item>
+        <item>Photos</item>
+        <item>Communities</item>
+        <item>Pages</item>
+        <item>What\'s hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Icons -->
+    <!-- In the order they appear -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- ? -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
