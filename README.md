@@ -7,5 +7,5 @@ Things that might prove useful later on.
 
 1. IDE used was [Android Studio](http://developer.android.com/sdk/installing/studio.html)
 2. [GenyMotion emulator](http://www.genymotion.com/) (Personal use license). I would definitely recommend you use this. Setup information can be found [here](https://cloud.genymotion.com/page/launchpad/download/). You need to register an account to access it.
-3. Build settings can be found at app/build.gradle
+3. Build settings can be found at [app/build.gradle](https://github.com/jibiabraham/nn-episode2/blob/master/app/build.gradle)
 4. Resources have been included in the repo.
